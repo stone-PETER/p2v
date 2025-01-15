@@ -2,7 +2,7 @@
   --color1:#367521;
   --color2:rgb(74, 213, 74);
   --color3: rgb(145, 233, 255);
-  --color4:rgb(152, 255, 145);
+  --color4:rgb(200, 255, 196);
 }
 body,
 html {
@@ -11,7 +11,7 @@ html {
   -webkit-font-smoothing: antialiased !important;
   color: #3b3b3b;
   font-weight: 400;
-  background: linear-gradient(to right, var(--color3),var(--color4));
+  background: var(--color4);
   width: 100% !important;
   height: 100% !important;
 }
