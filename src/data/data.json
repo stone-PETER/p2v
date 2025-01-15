@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "P2V",
+    "paragraph": "Empowering the Future of Manufacturing, Bridging Education and Industry"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "P2V Software and Solutions was founded with a mission to bridge the gap between academic learning and practical industry experience. We are committed to providing high-quality training, manufacturing solutions, and talent development services that meet the evolving needs of the industry.Our team comprises experienced professionals with a deep understanding of the manufacturing sector and a passion for education and development. We work closely with educational institutions and industry partners to ensure our programs and services are relevant, impactful, and aligned with industry best practices. At P2V, we believe in empowering individuals with the skills and knowledge they need to succeed in today's competitive market. We are dedicated to fostering a culture of innovation, collaboration, and continuous improvement.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -68,33 +68,33 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Internships",
+      "text": "We offer structured internship programs for ITI and Diploma students, providing them with valuable hands-on experience in a real-world industrial setting."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Electronics Manufacturing Services",
+      "text": "P2V provides comprehensive electronics manufacturing services, including assembly, testing, and quality control. We offer flexible and cost-effective solutions to meet the specific needs of our clients."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Student Projects",
+      "text": "We guide B.E. and Diploma students through the process of developing and executing impactful industrial projects. Our expert mentors provide guidance and support, ensuring students gain valuable practical experience."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Industrial Operator Training",
+      "text": "Our comprehensive training programs equip industrial operators with the essential skills and knowledge they need to excel in their roles. We offer training in soldering, testing, torquing, HR behaviors, and other relevant areas."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Manpower Consultancy",
+      "text": "P2V offers manpower consultancy services to help companies find the right talent for their technical and operational needs. We leverage our extensive network and industry expertise to connect companies with qualified candidates."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "CET Coaching",
+      "text": "P2V Software and Solutions offers comprehensive CET (Common Entrance Test) coaching designed to empower aspiring students aiming for technical and engineering careers."
     }
   ],
   "Testimonials": [

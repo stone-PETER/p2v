@@ -1,6 +1,6 @@
 :root{
-  --color1:#2b4e98;
-  --color2:rgb(97, 255, 97);
+  --color1:#367521;
+  --color2:rgb(74, 213, 74);
   --color3: rgb(145, 233, 255);
   --color4:rgb(152, 255, 145);
 }
@@ -215,19 +215,23 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
-  background-color: #e5e5e5;
+  /* background: url(../img/ltgrnBg.jpg) center center no-repeat; */
+  background: url(../img/grnWave.png) center center no-repeat;
+  /* background: url(../img/clover.png) center center no-repeat; */
+  /* background: #90ffaf; */
+  /* background-color: #e5e5e5; */
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
 }
 .intro .overlay {
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(166, 255, 141, 0.23);
 }
 .intro h1 {
   font-family: "Raleway", sans-serif;
-  color: #fff;
+  /* color: #fff; */
+  color: #000000;
   font-size: 82px;
   font-weight: 700;
   text-transform: uppercase;
@@ -239,9 +243,10 @@ a:focus,
   color: var(--color2);
 }
 .intro p {
-  color: #fff;
+  /* color: #fff; */
+  color: #000000;
   font-size: 22px;
-  font-weight: 300;
+  font-weight:  500;
   line-height: 30px;
   margin: 0 auto;
   margin-bottom: 60px;
@@ -253,7 +258,7 @@ header .intro-text {
 }
 /* Features Section */
 #features {
-  background: #bae3c1;
+  /* background: #bae3c1; */
 }
 #features i.fa {
   font-size: 38px;
