@@ -9,7 +9,7 @@ html {
   font-family: "Open Sans", sans-serif;
   text-rendering: optimizeLegibility !important;
   -webkit-font-smoothing: antialiased !important;
-  color: #777;
+  color: #3b3b3b;
   font-weight: 400;
   background: linear-gradient(to right, var(--color3),var(--color4));
   width: 100% !important;
